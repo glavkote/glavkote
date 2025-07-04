@@ -4,7 +4,7 @@
 
 ##
 
-**👋 Hi, I'm Pascha** - Senior Unix/Linux Systems Engineer with over 10 years of professional experience. Involved in IT since 2008, with formal engineering roles since 2015. My skills focus on free and open-source technologies, with extensive experience in GNU/Linux and other Unix-like operating systems, virtualization, automation scripting, web service deployment, and information security. I have over five years of practical experience in networking, but it is no longer my primary area of focus. I'm currently expanding my expertise in DevOps, focusing on key areas such as infrastructure as code (IaC), CI/CD pipelines, system observability stacks, container runtimes, version control with Git, and configuration management tools.
+**👋 Hi, I'm Pascha** - Senior Unix/Linux Systems Engineer with over 10 years of professional experience. Involved in IT since 2008, with formal engineering roles since 2015. My skills focus on free and open-source technologies, with extensive experience in GNU/Linux and other Unix-like operating systems, virtualization, automation scripting, web service deployment, and information security. I have over five years of practical experience in networking, but it is no longer my primary area of focus. I'm currently expanding my expertise in DevOps, focusing on key areas such as CI/CD pipelines, infrastructure as code, system observability stacks, container runtimes, version control with Git, and configuration management tools.
 
 ⚡ I am seeking long-term relocation opportunities to the United States with employer sponsorship (EB-2 / EB-3 visa) and am fully prepared to relocate immediately upon receiving a job offer and visa approval.
 
@@ -89,6 +89,8 @@
 [![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![sed](https://img.shields.io/badge/sed-333?style=for-the-badge&logoColor=white)](https://www.gnu.org/software/sed/)
 [![awk](https://img.shields.io/badge/awk-333?style=for-the-badge&logoColor=white)](https://www.gnu.org/software/gawk/)
+[![PowerShell Core (pwsh)](https://img.shields.io/badge/PowerShell_Core_(pwsh)-333?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/PowerShell/PowerShell)
+[![Batch (CMD)](https://img.shields.io/badge/Batch%20(CMD)-333?style=for-the-badge)](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
 
 ##
 
@@ -143,7 +145,7 @@
 </details>
 
 <details>
-<summary><strong> ⛧ Database Management Systems ⛧ ◂</strong></summary>
+<summary><strong> ⛧ Database Management Systems & Tools ⛧ ◂</strong></summary>
 <br>
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -290,7 +292,7 @@
 [![Krusader](https://img.shields.io/badge/Krusader-333?style=for-the-badge&logo=kde&logoColor=white)](https://krusader.org/)
 [![Thunar](https://img.shields.io/badge/Thunar-333?style=for-the-badge&logo=xfce&logoColor=white)](https://docs.xfce.org/xfce/thunar/start)
 [![Midnight Commander](https://img.shields.io/badge/Midnight_Commander-333?style=for-the-badge&logo=gnubash&logoColor=white)](https://midnight-commander.org/)
-[![Terminator](https://img.shields.io/badge/Terminator-333?style=for-the-badge)](https://gnome-terminator.org/)
+[![Terminator](https://img.shields.io/badge/Terminator-333?style=for-the-badge&logo=gnome&logoColor=white)](https://gnome-terminator.org/)
 [![tmux](https://img.shields.io/badge/tmux-333?style=for-the-badge&logoColor=white)](https://github.com/tmux/tmux)
 [![LibreOffice](https://img.shields.io/badge/LibreOffice-333?style=for-the-badge&logo=libreoffice&logoColor=white)](https://www.libreoffice.org/)
 [![Kompare](https://img.shields.io/badge/Kompare-333?style=for-the-badge&logo=kde&logoColor=white)](https://apps.kde.org/kompare/)
@@ -300,7 +302,7 @@
 [![Tor Browser](https://img.shields.io/badge/Tor_Browser-333?style=for-the-badge&logo=torbrowser&logoColor=white)](https://www.torproject.org/)
 [![Thunderbird](https://img.shields.io/badge/Thunderbird-333?style=for-the-badge&logo=thunderbird&logoColor=white)](https://thunderbird.net/)
 [![GNOME Disks](https://img.shields.io/badge/GNOME_Disks-333?style=for-the-badge&logo=gnome&logoColor=white)](https://wiki.gnome.org/Apps/Disks)
-[![GParted](https://img.shields.io/badge/GParted-333?style=for-the-badge&logoColor=white)](https://gparted.org/)
+[![GParted](https://img.shields.io/badge/GParted-333?style=for-the-badge&&logo=gnome&logoColor=white)](https://gparted.org/)
 [![Gwenview](https://img.shields.io/badge/Gwenview-333?style=for-the-badge&logo=kde&logoColor=white)](https://apps.kde.org/gwenview/)
 [![GIMP](https://img.shields.io/badge/GIMP-333?style=for-the-badge&logo=gimp&logoColor=white)](https://www.gimp.org/)
 [![OBS Studio](https://img.shields.io/badge/OBS_Studio-333?style=for-the-badge&logo=obsstudio&logoColor=white)](https://obsproject.com/)
@@ -323,8 +325,8 @@
 
 [![Zsh](https://img.shields.io/badge/Zsh-333?style=for-the-badge&logo=zsh&logoColor=white)](https://www.zsh.org/)
 [![tcsh](https://img.shields.io/badge/tcsh-333?style=for-the-badge)](https://www.tcsh.org/)
-[![PowerShell](https://img.shields.io/badge/PowerShell-333?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/PowerShell/PowerShell)
-[![Batch (CMD)](https://img.shields.io/badge/Batch%20(CMD)-333?style=for-the-badge)](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
+[![Cygwin](https://img.shields.io/badge/Cygwin-333?style=for-the-badge)](https://cygwin.com/)
+
 
 [![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=sqlite&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Oracle DB](https://img.shields.io/badge/Oracle_DB-333?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
@@ -474,7 +476,7 @@ Currently, I am employed at a research laboratory focused on data protection and
 
 Throughout my career, I often took on independent freelance work alongside my main jobs, with clients coming through personal referrals. Over the years, I built, repaired, and maintained hundreds of desktop PCs and printers; serviced and installed video surveillance systems and access control solutions; and installed extensive Ethernet and telephone cabling across small business offices, industrial facilities, and multi-story buildings. 
 
-I hold three degrees in Information Technology: a Technician’s Degree (2008–2012), a Bachelor’s Degree (2012–2015), and a Postgraduate Diploma with a qualification as Systems Engineer (2015–2017).
+I hold two degrees in Information Technology: a Technician’s degree (2008-2012) and a Bachelor’s degree (2012-2015). I also have a postgraduate diploma with a qualification as Systems Engineer (2015-2017).
 
 </details>
 
