@@ -1,16 +1,15 @@
 <!--
 **glavkote/glavkote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
 ##
 
 **👋 Hi, I'm Pascha** - Senior Unix/Linux Systems Engineer with over 10 years of professional experience. Involved in IT since 2008, with formal engineering roles since 2015. My skills focus on free and open-source technologies, with extensive experience in GNU/Linux and other Unix-like operating systems, virtualization, automation scripting, web service deployment, and information security. I have over five years of practical experience in networking, but it is no longer my primary area of focus. I'm currently expanding my expertise in DevOps, focusing on key areas such as CI/CD pipelines, infrastructure as code, system observability stacks, container runtimes, version control with Git, and configuration management tools.
 
-⚡ I am seeking long-term relocation opportunities to the United States with employer sponsorship (EB-2 / EB-3 visa) and am fully prepared to relocate immediately upon receiving a job offer and visa approval.
+⚡ I am seeking long-term relocation opportunities to the United States with employer sponsorship (EB-2 / EB-3 / L-1B / H-1B visa) and am fully prepared to relocate immediately upon receiving a job offer and visa approval.
 
 ---
 <!--
-## My Current Certifications
+### My Current Certifications
 
 [![RHCE](https://img.shields.io/badge/Red_Hat_Certified_Engineer-800000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.redhat.com/en/services/certification/rhce)
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-3A5F0B?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
@@ -20,7 +19,7 @@
 -->
 
 <details>
-<summary><strong> Core Skills, Tools & Ware I’m Working With (Click to Expand) ◂</strong></summary>
+<summary><strong> 💻 Core Skills, Tools & Ware I’m Working With (Click to Expand) 🛠️ ◂</strong></summary>
 <br>
 
 <details>
@@ -469,12 +468,12 @@
 </details>
 
 <details>
-<summary><strong> Brief Overview of My Work Experience & Education (Click to Expand) ◂</strong></summary>
+<summary><strong> 📋 Brief Overview of My Work Experience & Education (Click to Expand) 💼 ◂</strong></summary>
 <br>
 
 Currently, I am employed at a research laboratory focused on data protection and technical security systems, where I have been working for several years, developing, automating and administering both virtualized and physical environments for software testing and development. Prior to this, I served for over two years as Head of the Information Security and Technical Protection Department at a regional-level research institute. Before that, I administered IT infrastructure for nearly all offices of local travel agencies and various other businesses in my city, and also held a solo system administration role for nearly two years at a mid-sized industrial manufacturing company.
 
-Throughout my career, I often took on independent freelance work alongside my main jobs, with clients coming through personal referrals. Over the years, I built, repaired, and maintained hundreds of desktop PCs and printers; serviced and installed video surveillance systems and access control solutions; and installed extensive Ethernet and telephone cabling across small business offices, industrial facilities, and multi-story buildings. 
+Throughout my career, I often took on independent freelance work alongside my main jobs, with clients coming through personal referrals. Over the years, I built, repaired, and maintained hundreds of desktop PCs and printers; serviced and installed video surveillance systems and access control solutions; and installed extensive Ethernet and telephone cabling across small business offices, industrial facilities, and multi-story buildings.
 
 I hold two degrees in Information Technology: a Technician’s degree (2008-2012) and a Bachelor’s degree (2012-2015). I also have a postgraduate diploma with a qualification as Systems Engineer (2015-2017).
 
@@ -510,22 +509,49 @@ my Spotify Player
 will show up here.
 
 ---
-<!--
-## Support Me
 
-[![☕ Buy Me a Coffee](https://img.shields.io/badge/-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/YOUR_USERNAME)
+<details>
+<summary><strong> 🎮 📷 🌃 Beyond Information Technologies 🏋️ 🚴‍♀️ 🎼 ◂</strong></summary>
+<br>
 
-I don’t drink coffee - it’s not goog for me. 
-Just gimme your money - I'm so homeless cat!
+**Who would I be if I hadn’t gone into IT?** A video game designer - most likely specializing in world/level design, and possibly music composition as well. In the past, I practiced game modding as a hobby, working with various game engines, did some 3D modeling, worked with sound recording and audio processing, and also played all kinds of guitars, keyboards, and the recorder.
+
+The technical embodiment of imaginary worlds - giving tangible form to the unreal, to what has only existed in the mind - has always fascinated me as someone who loves video games, art, and music. Virtual, but perfect worlds holding a complete blend of creative expression - creations of code and thought, like living paintings - seem to stare back at their creator and those who enter them. These worlds, which feel alive, remain suspended in time, whispering across the void of decades. The souls of virtual art may be the only truly immortal thing in this so-called "real" world. Is there really much meaning to anything that happens - or has ever existed in any form - if we truly aren't living in a simulation of our reality? I think that some kind of otherworldly self-awareness - perhaps greater than any singular consciousness - eternally observes through our perception in this world. And IT is eternally part of all of us, just as we are eternally part of IT.
+
+</details>
 
 ---
--->
+
+<details>
+<summary><strong> 💵 How to Support Me (Temporarily Unavailable) 💶 ◂</strong></summary>
+<br>
+
+[![☕ Buy Me a Coffee](https://img.shields.io/badge/-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/glavkote)
+
+I don’t drink coffee - it’s not good for me. <br>
+Just gimme your money - I'm so homeless cat!
+
+</details>
+
+---
 
 ## License
 
+**Structure, Layout and Formatting Style:**
+
 [![WTFPL](https://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)](http://www.wtfpl.net)
 
-The content and layout of this README.md (excluding third-party logos) is licensed under the [WTFPL](http://www.wtfpl.net/).  
-You're welcome to use it as a template or customize it however you like for your own profile.
+The structure, layout and formatting style of this README.md (excluding third-party logos) is licensed under the [WTFPL](http://www.wtfpl.net/).
+You're welcome to use it as a template or customize it however you like - for your own profile or any other purpose.
+
+**Personal Content:**
+
+[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+The **original personal content** of this file - including biography, quotes, reflections, and philosophical notes - is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+You may not use this content for commercial purposes, create derivative works, or reproduce it without proper attribution. Contact the author for permission if needed.
+
+© 2025 Pascha K. aka Glavkote.
 
 ##
