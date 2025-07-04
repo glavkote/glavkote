@@ -89,7 +89,7 @@
 [![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![sed](https://img.shields.io/badge/sed-333?style=for-the-badge&logoColor=white)](https://www.gnu.org/software/sed/)
 [![awk](https://img.shields.io/badge/awk-333?style=for-the-badge&logoColor=white)](https://www.gnu.org/software/gawk/)
-[![PowerShell Core (pwsh)](https://img.shields.io/badge/PowerShell_Core_(pwsh)-333?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/PowerShell/PowerShell)
+[![PowerShell (pwsh)](https://img.shields.io/badge/PowerShell_(pwsh)-333?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/PowerShell/PowerShell)
 [![Batch (CMD)](https://img.shields.io/badge/Batch%20(CMD)-333?style=for-the-badge)](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
 
 ##
