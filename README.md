@@ -5,7 +5,7 @@
 
 **👋 Hi, I'm Pascha** - Senior Unix/Linux Systems Engineer with over 10 years of professional experience. Involved in IT since 2008, with formal engineering roles since 2015. My skills focus on free and open-source technologies, with extensive experience in GNU/Linux and other Unix-like operating systems, virtualization, automation scripting, web service deployment, and information security. I have over five years of practical experience in networking, but it is no longer my primary area of focus. I'm currently expanding my expertise in DevOps, focusing on key areas such as CI/CD pipelines, infrastructure as code, system observability stacks, container runtimes, version control with Git, and configuration management tools.
 
-⚡ I am seeking long-term relocation opportunities to the United States with employer sponsorship (EB-2 / EB-3 / L-1B / H-1B visa) and am fully prepared to relocate immediately upon receiving a job offer and visa approval.
+⚡ I am seeking long-term relocation opportunities to the United States with employer sponsorship for a long-term or immigration-based work visa (EB-2 / EB-3 / L-1B / H-1B), and I am fully prepared to relocate immediately upon receiving a job offer and visa approval.
 
 ---
 <!--
@@ -105,13 +105,12 @@
 [![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-333?style=for-the-badge&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/)
 [![GitLab Runner](https://img.shields.io/badge/GitLab%20Runner-333?style=for-the-badge&logo=gitlab&logoColor=white)](https://docs.gitlab.com/runner/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-333?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
-[![Jenkins](https://img.shields.io/badge/Jenkins-333?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 
 [![Ansible](https://img.shields.io/badge/Ansible-333?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
 [![SaltStack](https://img.shields.io/badge/SaltStack-333?style=for-the-badge&logo=saltstack&logoColor=white)](https://saltproject.io/)
 
-[![Docker](https://img.shields.io/badge/Docker-333?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Podman](https://img.shields.io/badge/Podman-333?style=for-the-badge&logo=podman&logoColor=white)](https://podman.io/)
+[![Docker](https://img.shields.io/badge/Docker-333?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![containerd](https://img.shields.io/badge/containerd-333?style=for-the-badge&logo=containerd&logoColor=white)](https://containerd.io/)
 [![Linux Containers](https://img.shields.io/badge/Linux%20Containers-333?style=for-the-badge&logo=linuxcontainers&logoColor=white)](https://linuxcontainers.org/)
 [![Flatpak](https://img.shields.io/badge/Flatpak-333?style=for-the-badge&logo=flatpak&logoColor=white)](https://flatpak.org/)
@@ -138,6 +137,7 @@
 [![Redmine](https://img.shields.io/badge/Redmine-333?style=for-the-badge&logo=redmine&logoColor=white)](https://www.redmine.org/)
 [![RubyGems](https://img.shields.io/badge/RubyGems-333?style=for-the-badge&logo=rubygems&logoColor=white)](https://rubygems.org/)
 [![Puma](https://img.shields.io/badge/Puma-333?style=for-the-badge&logoColor=white)](https://puma.io/)
+[![Selenium](https://img.shields.io/badge/Selenium-333?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 
 ##
 
@@ -326,7 +326,6 @@
 [![tcsh](https://img.shields.io/badge/tcsh-333?style=for-the-badge)](https://www.tcsh.org/)
 [![Cygwin](https://img.shields.io/badge/Cygwin-333?style=for-the-badge)](https://cygwin.com/)
 
-
 [![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=sqlite&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Oracle DB](https://img.shields.io/badge/Oracle_DB-333?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
 
@@ -351,8 +350,9 @@
 [![Rails](https://img.shields.io/badge/Rails-333?style=for-the-badge&logo=rubyonrails&logoColor=white)](https://rubyonrails.org/)
 [![Java](https://img.shields.io/badge/Java-333?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![OpenJDK](https://img.shields.io/badge/OpenJDK-333?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
-[![PL/Java](https://img.shields.io/badge/PL%2FJava-333?style=for-the-badge&logo=java&logoColor=white)](https://tada.github.io/pljava/)
 [![Spring](https://img.shields.io/badge/Spring-333?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+[![PL/Java](https://img.shields.io/badge/PL%2FJava-333?style=for-the-badge&logo=java&logoColor=white)](https://tada.github.io/pljava/)
+[![Apache Maven](https://img.shields.io/badge/Maven-333?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 [![Qt](https://img.shields.io/badge/Qt-333?style=for-the-badge&logo=qt&logoColor=white)](https://www.qt.io/)
 [![C](https://img.shields.io/badge/C-333?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-333?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
@@ -398,40 +398,12 @@
 <summary><strong> ⛧ Things I Don't Have Any Experience With, But I Plan to Learn Some of Them ⛧ ◂</strong></summary>
 <br>
 
-**Cloud Infrastructure & Automation**
+**Infrastructure as Code (IaC) & Automation**
 
 [![Terraform](https://img.shields.io/badge/Terraform-333?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![Pulumi](https://img.shields.io/badge/Pulumi-333?style=for-the-badge&logo=pulumi&logoColor=white)](https://www.pulumi.com/)
 [![Packer](https://img.shields.io/badge/Packer-333?style=for-the-badge&logo=hashicorp&logoColor=white)](https://www.packer.io/)
 [![Vagrant](https://img.shields.io/badge/Vagrant-333?style=for-the-badge&logo=vagrant&logoColor=white)](https://www.vagrantup.com/)
-[![OpenShift](https://img.shields.io/badge/OpenShift-333?style=for-the-badge&logo=redhatopenshift&logoColor=white)](https://www.openshift.com/)
-
-**Serverless Cloud Platforms**
-
-[![AWS](https://img.shields.io/badge/AWS-333?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![Azure](https://img.shields.io/badge/Azure-333?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-[![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-333?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/lambda/)
-[![Azure Functions](https://img.shields.io/badge/Azure_Functions-333?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/services/functions/)
-
-**Containers & Orchestration**
-
-[![Kubernetes](https://img.shields.io/badge/Kubernetes_(K8s)-333?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Helm](https://img.shields.io/badge/Helm-333?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh/)
-[![Kustomize](https://img.shields.io/badge/Kustomize-333?style=for-the-badge&logo=kustomize&logoColor=white)](https://github.com/kubernetes-sigs/kustomize)
-
-**Security & Secret Management**
-
-[![HashiCorp Vault](https://img.shields.io/badge/HashiCorp_Vault-333?style=for-the-badge&logo=hashicorp&logoColor=white)](https://www.vaultproject.io/)
-[![CyberArk Conjur](https://img.shields.io/badge/CyberArk_Conjur-333?style=for-the-badge)](https://www.cyberark.com/products/conjur/)
-[![Confidant](https://img.shields.io/badge/Confidant-333?style=for-the-badge)](https://www.confidant.io/)
-[![Keycloak](https://img.shields.io/badge/Keycloak-333?style=for-the-badge&logo=keycloak&logoColor=white)](https://www.keycloak.org/)
-[![Secrethub](https://img.shields.io/badge/Secrethub-333?style=for-the-badge)](https://secrethub.io/)
-[![TruffleHog](https://img.shields.io/badge/TruffleHog-333?style=for-the-badge)](https://github.com/dxa4481/truffleHog)
-[![Doppler](https://img.shields.io/badge/Doppler-333?style=for-the-badge)](https://www.doppler.com/)
-[![OpenSCAP](https://img.shields.io/badge/OpenSCAP-333?style=for-the-badge&logoColor=white)](https://www.open-scap.org/)
-[![Aqua Security](https://img.shields.io/badge/Aqua_Security-333?style=for-the-badge&logo=aqua&logoColor=white)](https://www.aquasec.com/)
-[![Anchore](https://img.shields.io/badge/Anchore-333?style=for-the-badge&logo=anchore&logoColor=white)](https://anchore.com/)
-[![Falco](https://img.shields.io/badge/Falco-333?style=for-the-badge&logo=falco&logoColor=white)](https://falco.org/)
 
 **Observability (Monitoring, Logging & Alerting)**
 
@@ -447,7 +419,44 @@
 
 [![Alertmanager](https://img.shields.io/badge/Alertmanager-333?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/docs/alerting/latest/alertmanager/)
 [![Graylog](https://img.shields.io/badge/Graylog-333?style=for-the-badge&logo=graylog&logoColor=white)](https://www.graylog.org/)
+[![Filebeat](https://img.shields.io/badge/Filebeat-333?style=for-the-badge&logo=elastic&logoColor=white)](https://www.elastic.co/beats/filebeat)
 [![etcd](https://img.shields.io/badge/etcd_(K8s_datastore)-333?style=for-the-badge&logo=etcd&logoColor=white)](https://etcd.io/)
+
+
+**Containers & Orchestration**
+
+[![Kubernetes](https://img.shields.io/badge/Kubernetes_(K8s)-333?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Helm](https://img.shields.io/badge/Helm-333?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh/)
+[![Kustomize](https://img.shields.io/badge/Kustomize-333?style=for-the-badge&logo=kustomize&logoColor=white)](https://github.com/kubernetes-sigs/kustomize)
+[![OpenShift](https://img.shields.io/badge/OpenShift-333?style=for-the-badge&logo=redhatopenshift&logoColor=white)](https://www.openshift.com/)
+[![Docker Compose](https://img.shields.io/badge/Docker%20Compose-333?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/compose/)
+[![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-333?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/engine/swarm/)
+[![Rancher](https://img.shields.io/badge/Rancher-333?style=for-the-badge&logo=rancher&logoColor=white)](https://rancher.com/)
+[![k3s](https://img.shields.io/badge/k3s-333?style=for-the-badge&logo=k3s&logoColor=white)](https://k3s.io/)
+[![k0s](https://img.shields.io/badge/k0s-333?style=for-the-badge&logo=kubernetes&logoColor=white)](https://k0sproject.io/)
+[![MicroK8s](https://img.shields.io/badge/MicroK8s-333?style=for-the-badge&logo=ubuntu&logoColor=white)](https://microk8s.io/)
+[![Portainer](https://img.shields.io/badge/Portainer-333?style=for-the-badge&logo=portainer&logoColor=white)](https://www.portainer.io/)
+
+**Security & Secret Management**
+
+[![HashiCorp Vault](https://img.shields.io/badge/HashiCorp_Vault-333?style=for-the-badge&logo=hashicorp&logoColor=white)](https://www.vaultproject.io/)
+[![CyberArk Conjur](https://img.shields.io/badge/CyberArk_Conjur-333?style=for-the-badge)](https://www.cyberark.com/products/conjur/)
+[![Confidant](https://img.shields.io/badge/Confidant-333?style=for-the-badge)](https://www.confidant.io/)
+[![Keycloak](https://img.shields.io/badge/Keycloak-333?style=for-the-badge&logo=keycloak&logoColor=white)](https://www.keycloak.org/)
+[![Secrethub](https://img.shields.io/badge/Secrethub-333?style=for-the-badge)](https://secrethub.io/)
+[![TruffleHog](https://img.shields.io/badge/TruffleHog-333?style=for-the-badge)](https://github.com/dxa4481/truffleHog)
+[![Doppler](https://img.shields.io/badge/Doppler-333?style=for-the-badge)](https://www.doppler.com/)
+[![OpenSCAP](https://img.shields.io/badge/OpenSCAP-333?style=for-the-badge&logoColor=white)](https://www.open-scap.org/)
+[![Aqua Security](https://img.shields.io/badge/Aqua_Security-333?style=for-the-badge&logo=aqua&logoColor=white)](https://www.aquasec.com/)
+[![Anchore](https://img.shields.io/badge/Anchore-333?style=for-the-badge&logo=anchore&logoColor=white)](https://anchore.com/)
+[![Falco](https://img.shields.io/badge/Falco-333?style=for-the-badge&logo=falco&logoColor=white)](https://falco.org/)
+
+**Serverless Cloud Platforms**
+
+[![AWS](https://img.shields.io/badge/AWS-333?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Azure](https://img.shields.io/badge/Azure-333?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-333?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/lambda/)
+[![Azure Functions](https://img.shields.io/badge/Azure_Functions-333?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/services/functions/)
 
 **Threat Detection & Forensics**
 
@@ -516,7 +525,9 @@ will show up here.
 
 **Who would I be if I hadn’t gone into IT?** A video game designer - most likely specializing in world/level design, and possibly music composition as well. In the past, I practiced game modding as a hobby, working with various game engines, did some 3D modeling, worked with sound recording and audio processing, and also played all kinds of guitars, keyboards, and the recorder.
 
-The technical embodiment of imaginary worlds - giving tangible form to the unreal, to what has only existed in the mind - has always fascinated me as someone who loves video games, art, and music. Virtual, but perfect worlds holding a complete blend of creative expression - creations of code and thought, like living paintings - seem to stare back at their creator and those who enter them. These worlds, which feel alive, remain suspended in time, whispering across the void of decades. The souls of virtual art may be the only truly immortal thing in this so-called "real" world. Is there really much meaning to anything that happens - or has ever existed in any form - if we truly aren't living in a simulation of our reality? I think that some kind of otherworldly self-awareness - perhaps greater than any singular consciousness - eternally observes through our perception in this world. And IT is eternally part of all of us, just as we are eternally part of IT.
+The technical embodiment of imaginary worlds - giving tangible form to the unreal, to what has only existed in the mind - has always fascinated me as someone who loves video games, art, and music. Virtual, but perfect worlds holding a complete blend of creative expression - creations of code and thought, like living paintings - seem to stare back at their creator and those who enter them. These worlds, which feel alive, remain suspended in time, whispering across the void of decades. The souls of virtual art may be the only truly immortal thing in this so-called "real" world. Is there really much meaning to anything that happens - or has ever existed in any form - if we truly aren't living in a simulation of our reality? I think that some kind of otherworldly self-awareness - perhaps greater than any singular consciousness - eternally observes through our perception in this world. And IT is part of all of us, just as we are part of IT.
+
+**What job would I have had if I’d lived in the 1890s?** A telephone or telegraph engineer, I presume - or perhaps a gunsmith crafting firearms, blades, and other tools for a free and self-reliant life.
 
 </details>
 
