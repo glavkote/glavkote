@@ -1,6 +1,8 @@
 <!--
 **glavkote/glavkote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+![Profile_Header](https://github.com/glavkote/glavkote/blob/main/_Header_1500x500_.jpg)
+
 ##
 
 **👋 Hi, I'm Pascha** - Senior Unix/Linux Systems Engineer with over 10 years of professional experience. Involved in IT since 2008, with formal engineering roles since 2015. My skills focus on free and open-source technologies, with extensive experience in GNU/Linux and other Unix-like operating systems, virtualization, automation scripting, web service deployment, and information security. I have over five years of practical experience in networking, but it is no longer my primary area of focus. I'm currently expanding my expertise in DevOps, focusing on key areas such as CI/CD pipelines, infrastructure as code, system observability stacks, container runtimes, version control with Git, and configuration management tools.
