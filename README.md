@@ -139,6 +139,7 @@
 [![Redmine](https://img.shields.io/badge/Redmine-333?style=for-the-badge&logo=redmine&logoColor=white)](https://www.redmine.org/)
 [![RubyGems](https://img.shields.io/badge/RubyGems-333?style=for-the-badge&logo=rubygems&logoColor=white)](https://rubygems.org/)
 [![Puma](https://img.shields.io/badge/Puma-333?style=for-the-badge&logoColor=white)](https://puma.io/)
+[![Postman](https://img.shields.io/badge/Postman-333?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Selenium](https://img.shields.io/badge/Selenium-333?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 
 ##
@@ -403,6 +404,7 @@
 
 **Infrastructure as Code (IaC) & Automation**
 
+[![OpenTofu](https://img.shields.io/badge/OpenTofu-333?style=for-the-badge&logo=opentofu&logoColor=white)](https://opentofu.org/)
 [![Terraform](https://img.shields.io/badge/Terraform-333?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![Pulumi](https://img.shields.io/badge/Pulumi-333?style=for-the-badge&logo=pulumi&logoColor=white)](https://www.pulumi.com/)
 [![Packer](https://img.shields.io/badge/Packer-333?style=for-the-badge&logo=hashicorp&logoColor=white)](https://www.packer.io/)
@@ -424,7 +426,6 @@
 [![Graylog](https://img.shields.io/badge/Graylog-333?style=for-the-badge&logo=graylog&logoColor=white)](https://www.graylog.org/)
 [![Filebeat](https://img.shields.io/badge/Filebeat-333?style=for-the-badge&logo=elastic&logoColor=white)](https://www.elastic.co/beats/filebeat)
 [![etcd](https://img.shields.io/badge/etcd_(K8s_datastore)-333?style=for-the-badge&logo=etcd&logoColor=white)](https://etcd.io/)
-
 
 **Containers & Orchestration**
 
