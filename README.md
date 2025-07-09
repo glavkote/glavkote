@@ -477,8 +477,6 @@
 
 ---
 
-</details>
-
 <details>
 <summary><strong> 📋 Brief Overview of My Work Experience & Education (Click to Expand) 💼 ◂</strong></summary>
 <br>
