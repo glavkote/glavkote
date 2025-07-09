@@ -560,7 +560,7 @@ You're welcome to use it as a template or customize it however you like - for yo
 
 [![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-The **original personal content** of this file - including biography, quotes, reflections, philosophical notes, and original photographs and images (excluding third-party logos) - is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+The **original personal content** of this of this README.md - including biography, quotes, reflections, philosophical notes, and original photographs and images (excluding third-party logos) - is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 You may not use this content for commercial purposes, create derivative works, or reproduce it without proper attribution. Contact the author for permission if needed.
 
