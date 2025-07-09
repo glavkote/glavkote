@@ -321,8 +321,9 @@
 <br>
 
 [![illumos](https://img.shields.io/badge/illumos-333?style=for-the-badge)](https://illumos.org/)
-[![Android](https://img.shields.io/badge/Android-333?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
+[![OpenIndiana](https://img.shields.io/badge/OpenIndiana-333?style=for-the-badge&logo=openindiana&logoColor=white)](https://www.openindiana.org/)
 [![macOS](https://img.shields.io/badge/macOS-333?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
+[![Android](https://img.shields.io/badge/Android-333?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
 [![Zsh](https://img.shields.io/badge/Zsh-333?style=for-the-badge&logo=zsh&logoColor=white)](https://www.zsh.org/)
 [![tcsh](https://img.shields.io/badge/tcsh-333?style=for-the-badge)](https://www.tcsh.org/)
@@ -548,20 +549,18 @@ Just gimme your money - I'm so homeless cat!
 
 ---
 
-## License
+## Licenses
 
-**Structure, Layout and Formatting Style:**
+This repository uses dual licensing:
 
 [![WTFPL](https://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)](http://www.wtfpl.net)
 
-The structure, layout and formatting style of this README.md (excluding third-party logos) is licensed under the [WTFPL](http://www.wtfpl.net/).
+The **structure, layout and formatting style** of this README.md (excluding third-party logos) is licensed under the [WTFPL](http://www.wtfpl.net/).
 You're welcome to use it as a template or customize it however you like - for your own profile or any other purpose.
-
-**Personal Content:**
 
 [![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-The **original personal content** of this file - including biography, quotes, reflections, and philosophical notes - is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+The **original personal content** of this file - including biography, quotes, reflections, philosophical notes, and original photographs and images (excluding third-party logos) - is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 You may not use this content for commercial purposes, create derivative works, or reproduce it without proper attribution. Contact the author for permission if needed.
 
