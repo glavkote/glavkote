@@ -56,6 +56,7 @@
 [![QubesOS](https://img.shields.io/badge/QubesOS-333?style=for-the-badge&logoColor=white)](https://www.qubes-os.org/)
 
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-333?style=for-the-badge&logo=freebsd&logoColor=white)](https://freebsd.org/)
+[![macOS](https://img.shields.io/badge/macOS-333?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 
 [![Windows 11](https://img.shields.io/badge/Windows_11-333?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows_11)
 [![Windows Server 2022](https://img.shields.io/badge/Windows_Server_2022-333?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows_Server_2022)
@@ -359,7 +360,6 @@
 
 [![illumos](https://img.shields.io/badge/illumos-333?style=for-the-badge)](https://illumos.org/)
 [![OpenIndiana](https://img.shields.io/badge/OpenIndiana-333?style=for-the-badge&logo=openindiana&logoColor=white)](https://www.openindiana.org/)
-[![macOS](https://img.shields.io/badge/macOS-333?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 [![Android](https://img.shields.io/badge/Android-333?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
 [![Zsh](https://img.shields.io/badge/Zsh-333?style=for-the-badge&logo=zsh&logoColor=white)](https://www.zsh.org/)
