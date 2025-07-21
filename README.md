@@ -608,7 +608,7 @@ The technical embodiment of imaginary worlds - giving tangible form to the unrea
 
 [![☕ Buy Me a Coffee](https://img.shields.io/badge/-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/glavkote)
 
-I don’t drink coffee - it’s not good for me. <br>
+I don’t drink coffee - it’s not good for me.  
 Just gimme your money - I'm so homeless cat!
 
 </details>
