@@ -70,12 +70,12 @@
 <br>
 
 [![Proxmox](https://img.shields.io/badge/Proxmox-333?style=for-the-badge&logo=proxmox&logoColor=white)](https://www.proxmox.com/)
+[![virt-manager](https://img.shields.io/badge/virt--manager-333?style=for-the-badge&logo=linux&logoColor=white)](https://virt-manager.org/)
 [![QEMU](https://img.shields.io/badge/QEMU-333?style=for-the-badge&logo=qemu&logoColor=white)](https://www.qemu.org/)
 [![KVM](https://img.shields.io/badge/KVM-333?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux-kvm.org/)
-[![virt-manager](https://img.shields.io/badge/virt--manager-333?style=for-the-badge&logo=linux&logoColor=white)](https://virt-manager.org/)
 [![Hyper-V](https://img.shields.io/badge/Hyper--V-333?style=for-the-badge&logo=windows&logoColor=white)](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/)
-[![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-333?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/products/esxi-and-vsphere.html)
-[![VMware](https://img.shields.io/badge/VMware_Player-333?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/products/workstation-player.html)
+[![VMware ESXi Free](https://img.shields.io/badge/VMware_ESXi_Free-333?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/products/esxi-and-vsphere.html)
+[![VMware Player](https://img.shields.io/badge/VMware_Player-333?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/products/workstation-player.html)
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-333?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 
 ##
@@ -88,8 +88,6 @@
 
 [![Bash](https://img.shields.io/badge/Bash-333?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![sed](https://img.shields.io/badge/sed-333?style=for-the-badge&logoColor=white)](https://www.gnu.org/software/sed/)
-[![awk](https://img.shields.io/badge/awk-333?style=for-the-badge&logoColor=white)](https://www.gnu.org/software/gawk/)
 
 ##
 
@@ -364,6 +362,8 @@
 
 [![Zsh](https://img.shields.io/badge/Zsh-333?style=for-the-badge&logo=zsh&logoColor=white)](https://www.zsh.org/)
 [![tcsh](https://img.shields.io/badge/tcsh-333?style=for-the-badge)](https://www.tcsh.org/)
+[![sed](https://img.shields.io/badge/sed-333?style=for-the-badge&logoColor=white)](https://www.gnu.org/software/sed/)
+[![awk](https://img.shields.io/badge/awk-333?style=for-the-badge&logoColor=white)](https://www.gnu.org/software/gawk/)
 [![Cygwin](https://img.shields.io/badge/Cygwin-333?style=for-the-badge)](https://cygwin.com/)
 [![PowerShell (pwsh)](https://img.shields.io/badge/PowerShell_(pwsh)-333?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/PowerShell/PowerShell)
 [![Batch (CMD)](https://img.shields.io/badge/Batch_(CMD)-333?style=for-the-badge)](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
@@ -376,27 +376,28 @@
 [![Laravel](https://img.shields.io/badge/Laravel-333?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Yii](https://img.shields.io/badge/Yii-333?style=for-the-badge&logo=yii&logoColor=white)](https://www.yiiframework.com/)
 
-[![C](https://img.shields.io/badge/C-333?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![GNU Make](https://img.shields.io/badge/GNU_Make-333?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/make/)
 [![C++](https://img.shields.io/badge/C++-333?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![CMake](https://img.shields.io/badge/CMake-333?style=for-the-badge&logo=cmake&logoColor=white)](https://cmake.org/)
 [![Ninja](https://img.shields.io/badge/Ninja-333?style=for-the-badge)](https://ninja-build.org/)
 [![Qt](https://img.shields.io/badge/Qt-333?style=for-the-badge&logo=qt&logoColor=white)](https://www.qt.io/)
 [![Qt Creator](https://img.shields.io/badge/Qt_Creator-333?style=for-the-badge&logo=qt&logoColor=white)](https://www.qt.io/product/development-tools)
 
+[![C](https://img.shields.io/badge/C-333?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![GNU Make](https://img.shields.io/badge/GNU_Make-333?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/make/)
+
 [![Ruby](https://img.shields.io/badge/Ruby-333?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
 [![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-333?style=for-the-badge&logo=rubyonrails&logoColor=white)](https://rubyonrails.org/)
 [![RubyGems](https://img.shields.io/badge/RubyGems-333?style=for-the-badge&logo=rubygems&logoColor=white)](https://rubygems.org/)
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-333?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![npm](https://img.shields.io/badge/npm-333?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 
 [![Java](https://img.shields.io/badge/Java-333?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![OpenJDK](https://img.shields.io/badge/OpenJDK-333?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
 [![Spring](https://img.shields.io/badge/Spring-333?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![PL/Java](https://img.shields.io/badge/PL%2FJava-333?style=for-the-badge&logo=java&logoColor=white)](https://tada.github.io/pljava/)
 [![Apache Maven](https://img.shields.io/badge/Maven-333?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/Node.js-333?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![npm](https://img.shields.io/badge/npm-333?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 
 [![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=sqlite&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Oracle DB](https://img.shields.io/badge/Oracle_DB-333?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
