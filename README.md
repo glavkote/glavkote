@@ -7,8 +7,6 @@
 
 **👋 Hi, I'm Pascha** - Senior Unix/Linux Systems Engineer with over 10 years of professional experience. Involved in IT since 2008, with formal engineering roles since 2015. My skills focus on free and open-source technologies, with extensive experience in GNU/Linux and other Unix-like operating systems, virtualization, automation scripting, web service deployment, and information security. I have over five years of practical experience in networking, but it is no longer my primary area of focus. I'm currently expanding my expertise in DevOps, focusing on key areas such as CI/CD pipelines, infrastructure as code, system observability stacks, container runtimes, version control with Git, and configuration management tools.
 
-⚡ I am seeking long-term relocation opportunities to the United States with employer sponsorship for a long-term or immigration-based work visa (EB-2 / EB-3 / L-1B / H-1B), and I am fully prepared to relocate immediately upon receiving a job offer and visa approval.
-
 ---
 <!--
 ### My Current Certifications
@@ -16,6 +14,8 @@
 [![RHCE](https://img.shields.io/badge/Red_Hat_Certified_Engineer-800000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.redhat.com/en/services/certification/rhce)
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-3A5F0B?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
 [![TOEFL](https://img.shields.io/badge/TOEFL-003153?style=for-the-badge&logo=ets&logoColor=white)](https://www.ets.org/toefl)
+
+⚡ I am seeking long-term relocation opportunities to the United States with employer sponsorship for a long-term or immigration-based work visa (EB-2 / EB-3 / L-1B / H-1B), and I am fully prepared to relocate immediately upon receiving a job offer and visa approval.
 
 ---
 -->
